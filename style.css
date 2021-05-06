@@ -654,7 +654,7 @@ a.shop-now:hover {
 
 .sizing-guide-table td {
     font-family: brandon-grotesque, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     font-style: normal;
     font-size: 24px;
     color: #093F77;
@@ -695,7 +695,7 @@ a.shop-now:hover {
 }
 
 .selectSection button {
-    background-color: #d1d3d4;
+    background-color: #c2c4c5;
     border: 0;
     padding-top: 8px;
     padding-bottom: 8px;
